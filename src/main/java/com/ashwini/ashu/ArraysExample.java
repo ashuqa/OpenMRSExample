@@ -31,6 +31,7 @@ public class ArraysExample {
 		} else {
 			System.out.println("c1 is greatest::" + c1);
 			System.out.println("hello");
+			System.out.println("hi..");
 
 		}
 
